@@ -1,0 +1,9 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex eaf709c..ae77d1c 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,2 @@[m
+[31m-<p>Hello I am praveen Jain</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>Hello I am praveen Jain</p>[m
+[32m+[m[32m<p>This is new feature</p>[m
